@@ -1,0 +1,23 @@
+module.exports = {
+  LOCAL_STORAGE_DISCOURSES_ARRAY: "localStorageDiscoursesArray",
+  DISCOURSE_ID: "discourseId",
+  DISCOURSE: "discourse",
+  TITLE: "title",
+  SUMMARY: "summary",
+  RECORD_DATE: "record_date",
+  TEXT_DC: "text_dc",
+  ERROR_NO_RESULTS: "No Results",
+  ERROR_USER_DOES_NOT_EXISTS: "Entered User id not available",
+  USER_NOT_AVAILABLE: "user not available",
+  ERROR_OCCUPIED: "occupied",
+  MESSAGE: "message",
+  SEVERITY: "severity",
+  SUCCESS: "success",
+  WARNING: "warning",
+  ERROR: "error",
+  INFO: "info",
+  SOMETHING_WENT_WRONG: "Something went wrong. Try again later",
+  SEARCH_NO_RESPONSE_ALERT:
+    "No discourses matching. Please try again with synonyms or fuzziness ",
+  LOCAL_STORAGE_DISCOURSES_ARRAY_DEFAULT_VALUE: [{}],
+};
